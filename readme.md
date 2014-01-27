@@ -3,5 +3,5 @@ mobile-data
 
 A place for cool things
 
-[Songs]( songs/index.html )  
-[Places Demo]( places-demo/index.html )  
+[Songs]( http://mobile-data.github.io/songs/index.html )  
+[Places Demo]( http://mobile-data.github.io/places-demo/index.html )  
