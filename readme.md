@@ -1,5 +1,5 @@
-Mobile Data
-===========
+mobile-data.github.io
+=====================
 
 A place for cool things
 

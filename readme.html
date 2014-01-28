@@ -1,18 +1,17 @@
 <!doctype html>
 <html lang=en>
 <head>
-<title>Mobile Data </title>
+<title>Mobile Data</title>
 <meta name=viewport content=width=device-width>
 <meta charset=utf-8>
 </head>
 <body>
 <script src=http://jaanga.github.io/libs/md/showdown.js ></script>
-<script src=http://jaanga.github.io/libs/md//extensions/github.js /></script>
 <script>
 	init();
 
 	function init() {
-		var converter = new Showdown.converter( { 'github_flavouring': true, 'tables': true } );
+		var converter = new Showdown.converter();
 		
 		var css = document.body.appendChild( document.createElement('style') );
 		css.innerHTML = 'body { font: bold 12pt monospace; margin: 0; overflow: hidden; }';	
@@ -25,7 +24,7 @@
 		var breadcrumbs = document.body.appendChild( document.createElement( 'div' ) );
 		breadcrumbs.style.cssText = 'border: 0px double red; padding: 1px; position: absolute; top: 0px;' + horizontal;
 		breadcrumbs.innerHTML = '<h1>' + 
-			'<a href="./index.html" >mobile-data.github.io</a>' +
+			'<a href="./index.html" >Mobile Data</a>' +
 		'</h1>';
 
 		var readme = document.body.appendChild( document.createElement( 'div' ) );
