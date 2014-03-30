@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.1970247,37.7862819]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Dick's Donuts",
+        "address": "3417 High St",
+		"phone": "(510) 261-2212"
+      }
+    }
+  ]
+}
