@@ -8,7 +8,7 @@ Web ....... [donutsavant.com]( donutsavant.com )
 Hours:  
 Monday .... Closed  
 Tuesday ... 7:00 am – 3:00 pm  
-Wednesday . 7:00 am – 3:00 pm  
+Wednesday . 7:00 am – 3:00 pm   
 Thursday .. 7:00 am – 3:00 pm  
 Friday .... 7:00 am – 3:00 pm  
 Saturday .. 8:00 am – 2:00 pm  

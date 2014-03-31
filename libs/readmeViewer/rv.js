@@ -32,7 +32,7 @@
 
 	function displayPage( hash ) {
 		var hashes = hash.split('#');
-
+conte
 // Fetch and show the content file
 		content.innerHTML = converter.makeHtml( requestFile( hashes[1] ) );
 
