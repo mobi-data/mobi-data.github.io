@@ -16,6 +16,7 @@
 			var horizontalsContent = 'left: 30%; width: 60%; ';
 			var verticals = 'height: ' + ( window.innerHeight * 0.88 ) + 'px; top: 60px; ';
 
+
 // Content panel
 			content = document.body.appendChild( document.createElement( 'div' ) );
 			content.style.cssText = basics + horizontalsContent + verticals ;
@@ -32,7 +33,7 @@
 
 	function displayPage( hash ) {
 		var hashes = hash.split('#');
-conte
+
 // Fetch and show the content file
 		content.innerHTML = converter.makeHtml( requestFile( hashes[1] ) );
 
