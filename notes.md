@@ -12,6 +12,10 @@ There should, however, be enough material for you to judge whether
 
 ***
 
+The dount pages include maps - open source maps as supplied GitHub. This is just an experiment. Future revision will just have 'map it' links...
+
+***
+
 Today's update was quite major. The overall structure of the app is much simplified.
 
 
