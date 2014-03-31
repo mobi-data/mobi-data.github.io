@@ -19,7 +19,7 @@
 
 // Content panel
 			content = document.body.appendChild( document.createElement( 'div' ) );
-			content.style.cssText = basics + horizontalsContent + verticals ;
+//			content.style.cssText = basics + horizontalsContent + verticals ;
 
 			window.addEventListener('hashchange', init, false );
 		}
