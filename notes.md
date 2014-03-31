@@ -10,9 +10,11 @@ There should, however, be enough material for you to judge whether
 * Motivated but non-technical people could add and edit text
 * People of all walks could navigate the app quickly and easily enough to find useful stuff in a timely fashion
 
+A swipe ability is planned but not yet incorporated into the code.
+
 ***
 
-The dount pages include maps - open source maps as supplied GitHub. This is just an experiment. Future revision will just have 'map it' links...
+The donut pages include maps - open source maps as supplied GitHub. This is just an experiment. Future revision will just have 'map it' links...
 
 ***
 
