@@ -15,5 +15,5 @@ Saturday .. 8:00 am – 2:00 pm
 Sunday .... Closed  
 
 
-<iframe height=420 width=620 src=https://render.github.com/view/geojson?url=https://raw.github.com/mobile-data/places-demo/gh-pages/donuts/donut-savant.geojson ></iframe>
+<iframe height=240 width=320 src=https://render.github.com/view/geojson?url=https://raw.github.com/mobi-data/mobi-data.github.io/master/places/donuts/donut-savant/donut-savant.geojson ></iframe>
 
