@@ -13,5 +13,7 @@ A place for cool things
 
 <small>
 [FAQ]( index.html#faq.md )  
+[Markdown Cheatsheet]( index.html#markdown-cheatsheet.md )  
+[Notes]( index.html#notes.md )  
 source code: [github.com/mobi-data]( https://github.com/mobi-data/ )
 </small>
