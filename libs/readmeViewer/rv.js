@@ -7,7 +7,7 @@
 		if ( !converter ) {
 			converter = new Showdown.converter();
 // Styles for the doc
-//			var css = document.body.appendChild( document.createElement('style') );
+			var css = document.body.appendChild( document.createElement('style') );
 			css.innerHTML = 'body { font: normal 12pt sans-serif; overflow: auto; }';
 
 	//Styles for menu and content
