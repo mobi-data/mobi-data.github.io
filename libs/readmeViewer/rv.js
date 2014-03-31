@@ -7,8 +7,8 @@
 		if ( !converter ) {
 			converter = new Showdown.converter();
 // Styles for the doc
-			var css = document.body.appendChild( document.createElement('style') );
-			css.innerHTML = 'body { font: normal 12pt sans-serif; margin: 0; overflow: hidden; }';
+//			var css = document.body.appendChild( document.createElement('style') );
+//			css.innerHTML = 'body { font: normal 12pt sans-serif; margin: 0; overflow: hidden; }';
 
 	//Styles for menu and content
 			var basics = 'border: 3px double #eee; overflow-x: hidden; overflow-y: auto; padding: 10px; position: absolute; ';
