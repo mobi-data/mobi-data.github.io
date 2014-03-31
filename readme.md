@@ -11,4 +11,7 @@ A place for cool things
 
 <br>
 
-<small>source code: [github.com/mobi-data]( https://github.com/mobi-data/ )</small>
+<small>
+[FAQ]( index.html#faq.md )  
+source code: [github.com/mobi-data]( https://github.com/mobi-data/ )
+</small>
