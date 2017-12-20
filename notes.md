@@ -1,7 +1,23 @@
-[Mobi Data]( ./index.html ) &raquo; Notes
-===
+# [Mobi Data]( ./index.html ) &raquo; Notes
 
-2014-03-30 ~ Theo
+
+
+## To Do
+
+* All songs to Markdown
+* Add chords to each song
+* Karaoke?
+	* https://www.happinessishomemade.net/25-best-karaoke-christmas-classics/
+* Midi versions?
+
+
+## Change Log
+
+### 2017-12-19 ~ Theo
+
+* Yet again completely rebuilt
+
+### 2014-03-30 ~ Theo
 
 The current demo is a 'wireframe'. It has no styling and the content is not much more than a 'lorem ipsum'.
 
