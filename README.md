@@ -1,18 +1,18 @@
 # Mobi Data
 
 
-Useful information
+Useful information on the move is what we want to provide you.
 
 
-You are out in thw wilderness with good peeps.
+For example, you are out in thw wilderness with good peeps.
 
 What information do you need?
 
-The lyrics to songs you can sing together is nice.
+The lyrics to songs you can sing together is a nice=to-have.
 
-Coming soon will be a 3D walkthrough of your hike or ride.
+Coming soon will be a 3D walkthrough of your hike or ride based on data from your phone or GPS device.
 
-After that will be:
+After that will we will try to bring back a feature of an earler revision of this app:
 
 The location of the closest donut shop.
 

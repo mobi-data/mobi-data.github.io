@@ -1,6 +1,6 @@
-carols = 
+var carols = 
 `
-<h1><a href=../index.html >Songs</a> &raquo; Merry Christmas!</h1>
+<h3>Merry Christmas!</h3>
 
 <p><a href='#songs/carols/angels-we-have-heard-on-high.html'>Angels We Have Heard on High</a></p>
 <p><a href='#songs/carols/angels-we-have-heard-on-high.md'>Angels We Have Heard on High ~ markdown</a></p>
@@ -39,4 +39,4 @@ carols =
 <p><small><a href='about.html'>about</a> ~ <a href='small.html'>small</a></small></p>
 `
 
-	divMenuItems.innerHTML = carols
+	divMenuItems.innerHTML = carols;
