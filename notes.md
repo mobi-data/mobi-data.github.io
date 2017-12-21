@@ -13,6 +13,15 @@
 
 ## Change Log
 
+
+### 2017-12-21 ~ Theo
+
+* Menu swiping = left and right - beginning to work
+* Christmas Carols
+	* first five songs beginning to look and feel as they should
+
+
+
 ### 2017-12-19 ~ Theo
 
 * Yet again completely rebuilt

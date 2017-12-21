@@ -1,60 +1,32 @@
-Deck the Halls
 
-D                   Bm
-Deck the halls with boughs of holly, 
-A7          D      A     D
-Fa la la la la, la la la la 
-D              Bm
-Tis the season to be jolly, 
-A7          D      A     D
-Fa la la la la, la la la la 
-A7             D
-Don we now our gay apparel, 
-D        Bm        A  E7 A
-Fa la la la la, la la la la 
-D                 Bm
-Troll the ancient Yuletide carol, 
-G        D         D  A7 D
-Fa la la la la, la la la la 
+# Deck the Halls with Boughs of Holly
 
+Deck the halls with boughs of holly
+Fa la la la la, la la la la.
+'Tis the season to be jolly,
+Fa la la la la, la la la la.
 
-D               Bm
-See the blazing Yule before us, 
-A7          D      A     D
-Fa la la la la, la la la la 
-D                   Bm
-Strike the harp and join the chorus, 
-A7          D      A     D
-Fa la la la la, la la la la 
-A7           D
+Don we now our gay apparel,
+Fa la la la la la la.
+Toll the ancient Yuletide carol,
+Fa la la la la, la la la la.
+
+See the blazing Yule before us,
+Fa la la la la, la la la la.
+Strike the harp and join the chorus,
+Fa la la la la, la la la la.
+
 Follow me in merry measure,
-D        Bm        A  E7 A
-Fa la la la la, la la la la 
-D                Bm
-While I tell the Yuletide treasure, 
-G        D         D  A7 D
-Fa la la la la, la la la la 
+Fa la la la la la la,
+While I tell of Yuletide treasure,
+Fa la la la la, la la la la.
 
+Fast away the old year passes,
+Fa la la la la, la la la la.
+Hail the new, ye lads and lasses,
+Fa la la la la, la la la la.
 
-D             Bm
-Fast away the old year passes, 
-A7          D      A     D
-Fa la la la la, la la la la 
-D                Bm
-Hail the new, ye lads and lasses, 
-A7          D      A     D
-Fa la la la la, la la la la 
-A7             D
-Sing we joyous all together, 
-D        Bm        A  E7 A
-Fa la la la la, la la la la 
-D               Bm
-Heedless of the wind and weather, 
-G        D         D  A7 D
-Fa la la la la, la la la la 
-
-***
-
-https://tabs.ultimate-guitar.com/tab/misc_christmas/deck_the_halls_chords_895196
-
-https://tabs.ultimate-guitar.com/tab/misc_christmas/deck_the_halls_chords_1692241
+Sing we joyous all together,
+Fa la la la la la la,
+Heedless of the wind and weather,
+Fa la la la la, la la la la.
