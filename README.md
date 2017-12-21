@@ -8,7 +8,7 @@ For example, you are out in thw wilderness with good peeps.
 
 What information do you need?
 
-The lyrics to songs you can sing together is a nice=to-have.
+The lyrics to songs you can sing together is a nice-to-have.
 
 Coming soon will be a 3D walkthrough of your hike or ride based on data from your phone or GPS device.
 
@@ -18,10 +18,6 @@ The location of the closest donut shop.
 
 
 <!--
-## [Songs]( songs/index.html )
-## [Places]( places/index.html )
-
-
 
 * [FAQ]( index.html#faq.md )
 * [Markdown Cheatsheet]( index.html#markdown-cheatsheet.md )
