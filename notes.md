@@ -6,9 +6,13 @@
 
 * All songs to Markdown
 * Add chords to each song
-* Karaoke?
+* Decide fixed or proportional font
+* Fix up padding and margins 
+* Add Karaoke versions?
 	* https://www.happinessishomemade.net/25-best-karaoke-christmas-classics/
-* Midi versions?
+* Add Midi versions?
+* Keep working on the swiping
+	* Add swipe down to get to next carol?
 
 
 ## Change Log
