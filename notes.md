@@ -4,6 +4,7 @@
 
 ## To Do
 
+* add location hash
 * All songs to Markdown
 * Add chords to each song
 * Decide fixed or proportional font
