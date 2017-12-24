@@ -1,7 +1,7 @@
 # Mobi Data
 
 
-## The app:[Mobi-Data]( http://mobi-data.github.io )
+## The app: [Mobi-Data]( http://mobi-data.github.io )
 
 
 Useful information on the move is what we want to provide you.
@@ -26,6 +26,5 @@ The location of the closest donut shop.
 * [Markdown Cheatsheet]( index.html#markdown-cheatsheet.md )
 * [Notes]( index.html#notes.md )
 * Source code: [github.com/mobi-data]( https://github.com/mobi-data/ )
-
 
 -->
